@@ -9,13 +9,12 @@
  -->
 📫 How to reach me: rajshripatel2001@gmail.com
 
-<!-- -  🔭 I’m currently working on **Machine Learning and Python Projects**
+ -🔭 I’m currently working on **Machine Learning and Python Projects**
 - 🌱 I’m currently learning **Machine Learning, Data Analytics, Pandas, and Model Deployment**
 - 💬 Ask me about **Python, Machine Learning, Data Analysis, Flask**
 - 📫 How to reach me: **rajshripatel2001@gmail.com**
 - ⚡ Fun fact: *I love solving problems using Python and Data.*
 
---->
 
 ### 🌐 Connect with me: ###
 
