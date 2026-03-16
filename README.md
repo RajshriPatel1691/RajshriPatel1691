@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajshri Patel</h1>
-<h3 align="center">A passionate Full Stack Developer from India </h3>
+<h3 align="center">Python Developer | Machine Learning & Data Analytics Enthusiast</h3>h3 align="center">A passionate Full Stack Developer from India </h3>
 <img src="https://github.com/RajshriPatel1691/RajshriPatel1691/blob/main/python.jpg?raw=true" alt="Python Logo" width="1000">
 
 <img align="right" alt="Coding" width="300" src="https://github.com/RajshriPatel1691/Firstproject/blob/main/img.png">
@@ -9,11 +9,11 @@
  -->
 📫 How to reach me: rajshripatel2001@gmail.com
 
-<!-- - 🔭 I’m currently working on **Web & AI projects**
-- 🌱 I’m currently learning **Next.js & Data Science**
-- 💬 Ask me about **Python, JavaScript, React, Flask**
+<!-- -  🔭 I’m currently working on **Machine Learning and Python Projects**
+- 🌱 I’m currently learning **Machine Learning, Data Analytics, Pandas, and Model Deployment**
+- 💬 Ask me about **Python, Machine Learning, Data Analysis, Flask**
 - 📫 How to reach me: **rajshripatel2001@gmail.com**
-- ⚡ Fun fact: *I debug better at midnight! 🌙*
+- ⚡ Fun fact: *I love solving problems using Python and Data.*
 
 --->
 
