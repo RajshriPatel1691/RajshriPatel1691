@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajshri Patel</h1>
-<h3 align="center">Python Developer | Machine Learning & Data Analytics Enthusiast</h3>h3 align="center">A passionate Full Stack Developer from India </h3>
+<h3 align="center">Python Developer | Machine Learning & Data Analytics Enthusiast</h3>
 <img src="https://github.com/RajshriPatel1691/RajshriPatel1691/blob/main/python.jpg?raw=true" alt="Python Logo" width="1000">
 
 <img align="right" alt="Coding" width="300" src="https://github.com/RajshriPatel1691/Firstproject/blob/main/img.png">
